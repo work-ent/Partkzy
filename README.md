@@ -37,7 +37,11 @@
 </p>
 <p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
 </div>
+* [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
+* [Heroku](  https://dashboard.heroku.com/new?template=https://github.com/Tennormodz/Tdx?tab=readme-ov-file)
 
+
+  
 # Instalasi
 ## Heroku Buildpack
 ```bash

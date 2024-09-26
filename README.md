@@ -39,7 +39,7 @@
 </div>
   
 * [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
-* [Heroku](  https://dashboard.heroku.com/new?template=https://github.com/Tennormodz/Partkzy?tab=readme-ov-file)
+* [Heroku](  https://dashboard.heroku.com/new?template=https://github.com/Tennormodzcoder/Partkzy?tab=readme-ov-file)
 
 
   
